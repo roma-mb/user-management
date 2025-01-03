@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "bower": "^1.8.14"
   }
 }
